@@ -1,0 +1,27 @@
+  p{
+            /* color:brown; */
+            background-color: blueviolet;
+            width:50%;
+        }
+        #sort{
+            text-align: center;
+        }
+   .color{
+
+    color: pink;
+   } 
+   .bold,li{
+    font-weight: 800;
+   } 
+   input{
+    font-size: 40px;
+    color:blueviolet;
+    display: block;
+    margin-top: 10px;
+   }
+   input[type="password"]{
+    color:brown
+   }   
+   li{
+    display:inline;
+   }
